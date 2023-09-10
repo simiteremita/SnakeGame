@@ -18,3 +18,6 @@ The code is well commented, if you have any questions or want to continue this p
 * Run it 
 * Start playing with the arrows keys. 
 * If you lose, just close it and re-open it (I will add a restart button possibly)
+
+### Coverage Test
+* chosen module = KeyboardListener
